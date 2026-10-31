@@ -1,133 +1,133 @@
 {
   "games": {
     "7daystodie": {
-      "version": "1.0.4",
+      "version": "4",
       "ruleVersion": 4,
       "hash": "52042e7c6983d0aeb76cd43c105da8b43cb80eab26dbc695bf80f371e6d88ad4",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "baldursgate3": {
-      "version": "1.0.12",
+      "version": "12",
       "ruleVersion": 12,
       "hash": "61719261b800fd5e6793d4d867716f2bc9ce5521a5ce6a0ecc99f832ae8c36d2",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "blackmythwukong": {
-      "version": "1.0.0",
+      "version": "0",
       "ruleVersion": 0,
       "hash": "da506c8a9c8a9f31aa00eaeef23d49764b9ace97158a1a0a7aa628e6d446b0fb",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "cyberpunk2077": {
-      "version": "1.0.2",
+      "version": "2",
       "ruleVersion": 2,
       "hash": "6f41f2c9f6527df12a844e4f3897129c73ad2c153e755ded3932985afad617cd",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "eldenring": {
-      "version": "1.0.0",
+      "version": "0",
       "ruleVersion": 0,
       "hash": "dddf30422e35b6e3f178f0f5183654067a03e4e9d4432dde069f08bf6831e4db",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "enshrouded": {
-      "version": "1.0.0",
+      "version": "0",
       "ruleVersion": 0,
       "hash": "da506c8a9c8a9f31aa00eaeef23d49764b9ace97158a1a0a7aa628e6d446b0fb",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "hollowknightsilksong": {
-      "version": "1.0.0",
+      "version": "0",
       "ruleVersion": 0,
       "hash": "f160e52e271a572dd28e124b209f8be59de9f2a2a718fd34df71c23b3fdb9b3d",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "kingdomcomedeliverance2": {
-      "version": "1.0.0",
+      "version": "0",
       "ruleVersion": 0,
       "hash": "96a8c05ff5893fec9f34042892c8e89118bcf4520e68a2847b844088dcb58262",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "liesofp": {
-      "version": "1.0.0",
+      "version": "0",
       "ruleVersion": 0,
       "hash": "6e3b458c3a7c2298085605a1addb2eea510dd6bdec7ca925231c1c4bed0f97f3",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "nomanssky": {
-      "version": "1.0.2",
+      "version": "2",
       "ruleVersion": 2,
       "hash": "62d9980b9c260e5dbb9d2cde2ca51ab53aaed12569e791426a6955443b83035d",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "palworld": {
-      "version": "1.0.12",
+      "version": "12",
       "ruleVersion": 12,
       "hash": "cbe1ae9f241fed6635f15ec023e3fe47ff6f65af59602e1b9053edf94f3e42fa",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "phantombladezero": {
-      "version": "1.0.0",
+      "version": "0",
       "ruleVersion": 0,
       "hash": "c4e3bf5dd78ee48eaa437882f705f90145c6e9aefb4210acbc3cee01dd9cf0fd",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "repo": {
-      "version": "1.0.0",
+      "version": "0",
       "ruleVersion": 0,
       "hash": "d03497799a5bb570a18c48e08c360e8569c59af810cd99f6d0d753f31056f300",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "sekiro": {
-      "version": "1.0.1",
+      "version": "1",
       "ruleVersion": 1,
       "hash": "a55f95e70256fa8f829d66a2bf270aa3a7edfb1cf75fda13d9a61e8d3e448ecd",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "silenthillf": {
-      "version": "1.0.0",
+      "version": "0",
       "ruleVersion": 0,
       "hash": "7222ee2538f1ea0f86c7cb2c2a21873933a1576885c6d9131574940328250a2e",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "stardewvalley": {
-      "version": "1.0.4",
+      "version": "4",
       "ruleVersion": 4,
       "hash": "70a6df2f9585392d591897fc1b2a7c8aea926f689c2494b0a90519266597c39e",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "stellarblade": {
-      "version": "1.0.0",
+      "version": "0",
       "ruleVersion": 0,
       "hash": "f1793c81ae0c96731685dd33cee973392d4a63e626a8919362fd94a31c6cee12",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "subnautica": {
-      "version": "1.0.0",
+      "version": "0",
       "ruleVersion": 0,
       "hash": "9af4c92bfd6d57b25ba213e5feec208cb706ca86d46e8cfd42ab582b1cd98657",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "subnautica2": {
-      "version": "1.0.3",
+      "version": "3",
       "ruleVersion": 3,
       "hash": "57a87f5014b2f57d26f524edf7123402a6c00a403d13f2ea8c79c5ed699c3320",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "valheim": {
-      "version": "1.0.1",
+      "version": "1",
       "ruleVersion": 1,
       "hash": "8279a203b08b904b07aff264327c4c865827b02895b8454c9141a2139c60b1f6",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "witcher3": {
-      "version": "1.0.1",
+      "version": "1",
       "ruleVersion": 1,
       "hash": "7f36fcca6528e864980d4ab3a2c044e4313ddb87784bb1d523529300fb97f42d",
       "updatedAt": "2026-10-31 19:20:05"
     },
     "wuchangfallenfeathers": {
-      "version": "1.0.0",
+      "version": "0",
       "ruleVersion": 0,
       "hash": "f30f9df2e816541d543349fe41807ac6da53f847125ab04ea09f4610491da06b",
       "updatedAt": "2026-10-31 19:20:05"

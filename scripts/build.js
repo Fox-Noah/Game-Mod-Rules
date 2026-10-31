@@ -40,7 +40,7 @@ for (const file of fs.readdirSync(sourceDir).filter(name => name.endsWith('.json
   const encrypted = encrypt(JSON.stringify({ ruleVersion, rules: payload.rules }));
   fs.writeFileSync(path.join(rulesDir, `${id}.enc`), encrypted, 'utf8');
   snapshotFiles[id] = encrypted;
-  manifest.games[id] = { version: `1.0.${ruleVersion}`, ruleVersion, hash, updatedAt };
+  manifest.games[id] = { version: String(ruleVersion), ruleVersion, hash, updatedAt };
 }
 fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2) + '\n', 'utf8');
 console.log(`已生成 ${Object.keys(manifest.games).length} 个游戏的加密规则`);
