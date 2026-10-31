@@ -1,0 +1,15 @@
+# 明文规则只保存在本地，仓库只提交加密后的 rules/ 与 manifest.json
+source/
+
+# 加密密钥，泄露后加密形同虚设
+.rules-key
+*.key
+
+# 一次性迁移脚本，用完即弃
+scripts/import-from-app.js
+
+# 依赖与系统临时文件
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
