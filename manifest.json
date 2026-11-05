@@ -132,23 +132,17 @@
       "hash": "af8ee4b179f0f3aff5e854890fa59f8cec2de63b640ced74848748e261a72774",
       "updatedAt": "2026-11-05 16:35:34"
     },
-    "neverwinternights": {
-      "version": "1",
-      "ruleVersion": 1,
-      "hash": "6c3759c0e9b28af5a4d1a23504a2e6a3ad14b073b02db8e82367415e94fc4636",
-      "updatedAt": "2026-11-05 16:37:58"
-    },
-    "neverwinternights2": {
+    "neverwinter": {
       "version": "0",
       "ruleVersion": 0,
-      "hash": "8d303f1696d3c7fb2047bec8c5b26ee5da951a1e3568bd5d7e8b02524668a697",
-      "updatedAt": "2026-11-05 16:35:34"
+      "hash": "f58c11cb582a63ffd6ba20dc727837fbace631e1d9aecf69abe7c893adc6b163",
+      "updatedAt": "2026-11-05 18:13:31"
     },
-    "neverwinternightsee": {
-      "version": "1",
-      "ruleVersion": 1,
-      "hash": "a87de60e2b450da6fb123e0c64e456a28c3bd064743699c76f72e2d2ca48afa7",
-      "updatedAt": "2026-11-05 16:37:58"
+    "neverwinter2": {
+      "version": "0",
+      "ruleVersion": 0,
+      "hash": "8b9f51c13248dfd259e1163981b0ad346a568b958609d24bb0559793efe2d234",
+      "updatedAt": "2026-11-05 18:13:31"
     },
     "nomanssky": {
       "version": "2",
