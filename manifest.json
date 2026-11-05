@@ -25,16 +25,16 @@
       "updatedAt": "2026-10-31 19:20:05"
     },
     "bloodstainedritualofthenight": {
-      "version": "0",
-      "ruleVersion": 0,
-      "hash": "26bbf5e878b580871855fb45812a3c6fd0a89d15eda1e4fe8ef6ca34e09b1a21",
-      "updatedAt": "2026-11-05 16:35:34"
+      "version": "1",
+      "ruleVersion": 1,
+      "hash": "aaefb37b2a29a281bf75c772b7d73e7acc4344222b1872abc2c3e1dda87b9c88",
+      "updatedAt": "2026-11-05 18:22:59"
     },
     "codevein": {
-      "version": "0",
-      "ruleVersion": 0,
-      "hash": "256ac1c06bcc844a30169a5b554f089809cc3ce4bad0d0c0b8c2adc02697e0ce",
-      "updatedAt": "2026-11-05 16:35:34"
+      "version": "1",
+      "ruleVersion": 1,
+      "hash": "fdf3715fd1d5237e0884c490899e75f7b06f2ac157df4d4f1043ca7725db449f",
+      "updatedAt": "2026-11-05 18:22:59"
     },
     "cyberpunk2077": {
       "version": "3",
@@ -109,16 +109,16 @@
       "updatedAt": "2026-10-31 19:20:05"
     },
     "mbwarband": {
-      "version": "0",
-      "ruleVersion": 0,
-      "hash": "c61e0c3888f3d6b196a69fe2d77252c8ef2f623a939a2a347ea71a9ba30cc056",
-      "updatedAt": "2026-11-05 16:35:34"
+      "version": "1",
+      "ruleVersion": 1,
+      "hash": "27fe5311f9352fccbab3c7bc1e24493b1bad7e2e394563eed8028154c40bac1d",
+      "updatedAt": "2026-11-05 18:22:59"
     },
     "mbwithfireandsword": {
-      "version": "0",
-      "ruleVersion": 0,
-      "hash": "456e1004dee22ce23be893c9d4a1f51a51af0d09adefdf0e586800f672fad3d9",
-      "updatedAt": "2026-11-05 16:35:34"
+      "version": "1",
+      "ruleVersion": 1,
+      "hash": "ece9353881ef318e19390d5682c01a27aee0078fdb0a0b6d2aebad02de84f4d4",
+      "updatedAt": "2026-11-05 18:22:59"
     },
     "monsterhunterworld": {
       "version": "0",
@@ -127,10 +127,10 @@
       "updatedAt": "2026-11-05 16:35:34"
     },
     "mountandblade": {
-      "version": "0",
-      "ruleVersion": 0,
-      "hash": "af8ee4b179f0f3aff5e854890fa59f8cec2de63b640ced74848748e261a72774",
-      "updatedAt": "2026-11-05 16:35:34"
+      "version": "1",
+      "ruleVersion": 1,
+      "hash": "7158b0ff54ec88021bdc85395eac66a3542b004d0cb44710dcd6ae7a82021f47",
+      "updatedAt": "2026-11-05 18:22:59"
     },
     "neverwinter": {
       "version": "0",
@@ -139,10 +139,10 @@
       "updatedAt": "2026-11-05 18:13:31"
     },
     "neverwinter2": {
-      "version": "0",
-      "ruleVersion": 0,
-      "hash": "8b9f51c13248dfd259e1163981b0ad346a568b958609d24bb0559793efe2d234",
-      "updatedAt": "2026-11-05 18:13:31"
+      "version": "1",
+      "ruleVersion": 1,
+      "hash": "dab197e97ec683c4ccc216c5e318af413d92610e6052654f8b9abf3f08a2dc07",
+      "updatedAt": "2026-11-05 18:22:59"
     },
     "nomanssky": {
       "version": "2",
@@ -187,10 +187,10 @@
       "updatedAt": "2026-10-31 19:20:05"
     },
     "spyroreignitedtrilogy": {
-      "version": "0",
-      "ruleVersion": 0,
-      "hash": "949caa0b9df2c8309d39a5841949afb610a065dac60929f71a9132695a28c0a9",
-      "updatedAt": "2026-11-05 16:35:34"
+      "version": "1",
+      "ruleVersion": 1,
+      "hash": "0572d4e532e0d6fbfde6e0e49b1b2e4f6d5c4057aa2e05a0c324be186dd8ac27",
+      "updatedAt": "2026-11-05 18:22:59"
     },
     "stardewvalley": {
       "version": "4",
@@ -217,16 +217,16 @@
       "updatedAt": "2026-10-31 19:20:05"
     },
     "survivingmars": {
-      "version": "0",
-      "ruleVersion": 0,
-      "hash": "dcb1648d96b078294be6081914e11a73163126915ce46bbedfceb9220553ec27",
-      "updatedAt": "2026-11-05 16:35:34"
+      "version": "1",
+      "ruleVersion": 1,
+      "hash": "1139aa0e29cddfca6520fb8de836760fa41d5e367f8685ea0d2283461a63aee5",
+      "updatedAt": "2026-11-05 18:22:59"
     },
     "teamfortress2": {
-      "version": "0",
-      "ruleVersion": 0,
-      "hash": "6a74c037e817576bbd551a35306dc51469277710b6f8289971a7c8c610e41fa4",
-      "updatedAt": "2026-11-05 16:35:34"
+      "version": "1",
+      "ruleVersion": 1,
+      "hash": "d1307aa59e69aea910c6e13d3eb27c441d8088bd54d1410d3607841db4f53f3f",
+      "updatedAt": "2026-11-05 18:22:59"
     },
     "torchlight2": {
       "version": "1",
@@ -235,10 +235,10 @@
       "updatedAt": "2026-11-05 16:37:58"
     },
     "totalwarthreekingdoms": {
-      "version": "0",
-      "ruleVersion": 0,
-      "hash": "18f5113002fa95b55310ae608b7abd121d056f73ae968fbcd9aa235577894f67",
-      "updatedAt": "2026-11-05 16:35:34"
+      "version": "1",
+      "ruleVersion": 1,
+      "hash": "3bb8c3b9dbf8c85273b30f830574130a9eb9db5fd4434529840a4c03d2f34c15",
+      "updatedAt": "2026-11-05 18:22:59"
     },
     "valheim": {
       "version": "1",
@@ -271,16 +271,16 @@
       "updatedAt": "2026-10-31 19:20:05"
     },
     "x4foundations": {
-      "version": "0",
-      "ruleVersion": 0,
-      "hash": "b3585f5ba6fcba1f6fb488f6d94a78869b5b841241203931d1730015fb0703ad",
-      "updatedAt": "2026-11-05 16:35:34"
+      "version": "1",
+      "ruleVersion": 1,
+      "hash": "2b1c944e8996eb2dd08b0051d7ee8a84c3a3090178f329ddf2951cc0c09a646a",
+      "updatedAt": "2026-11-05 18:22:59"
     },
     "xrebirth": {
-      "version": "0",
-      "ruleVersion": 0,
-      "hash": "94629531f607ed5e9e1f4226a50a7b056f5ff49e68178628bc333a8c1b909ec7",
-      "updatedAt": "2026-11-05 16:35:34"
+      "version": "1",
+      "ruleVersion": 1,
+      "hash": "9d691c01aae30909d1671d5de6322c8350087b14677f6d2a0a62767e09c2cfe8",
+      "updatedAt": "2026-11-05 18:22:59"
     }
   }
 }
