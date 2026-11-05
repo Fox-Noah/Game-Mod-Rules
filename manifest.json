@@ -25,16 +25,16 @@
       "updatedAt": "2026-10-31 19:20:05"
     },
     "bloodstainedritualofthenight": {
-      "version": "1",
-      "ruleVersion": 1,
-      "hash": "aaefb37b2a29a281bf75c772b7d73e7acc4344222b1872abc2c3e1dda87b9c88",
-      "updatedAt": "2026-11-05 18:22:59"
+      "version": "2",
+      "ruleVersion": 2,
+      "hash": "508c590bc4a4dfdf35dc3abed7616d499008e134d9b28633798d6971371448ef",
+      "updatedAt": "2026-11-05 19:11:23"
     },
     "codevein": {
-      "version": "1",
-      "ruleVersion": 1,
-      "hash": "fdf3715fd1d5237e0884c490899e75f7b06f2ac157df4d4f1043ca7725db449f",
-      "updatedAt": "2026-11-05 18:22:59"
+      "version": "2",
+      "ruleVersion": 2,
+      "hash": "716655c83222c594ad5d8329bdac5c373ad9141a57adbffd3b5bf029fb5e7475",
+      "updatedAt": "2026-11-05 19:11:23"
     },
     "cyberpunk2077": {
       "version": "3",
@@ -187,10 +187,10 @@
       "updatedAt": "2026-10-31 19:20:05"
     },
     "spyroreignitedtrilogy": {
-      "version": "1",
-      "ruleVersion": 1,
-      "hash": "0572d4e532e0d6fbfde6e0e49b1b2e4f6d5c4057aa2e05a0c324be186dd8ac27",
-      "updatedAt": "2026-11-05 18:22:59"
+      "version": "2",
+      "ruleVersion": 2,
+      "hash": "8fcc95ff74b64368394fdadabf8e50db34e0730022069d52021da5fcf65fb8ff",
+      "updatedAt": "2026-11-05 19:11:23"
     },
     "stardewvalley": {
       "version": "4",
@@ -223,10 +223,10 @@
       "updatedAt": "2026-11-05 18:22:59"
     },
     "teamfortress2": {
-      "version": "1",
-      "ruleVersion": 1,
-      "hash": "d1307aa59e69aea910c6e13d3eb27c441d8088bd54d1410d3607841db4f53f3f",
-      "updatedAt": "2026-11-05 18:22:59"
+      "version": "2",
+      "ruleVersion": 2,
+      "hash": "9fa70ea6c3fb577e93e10658251c292438cbc6dfe3a79a54cd84467e0146dbc1",
+      "updatedAt": "2026-11-05 19:11:23"
     },
     "torchlight2": {
       "version": "1",
@@ -235,10 +235,10 @@
       "updatedAt": "2026-11-05 16:37:58"
     },
     "totalwarthreekingdoms": {
-      "version": "1",
-      "ruleVersion": 1,
-      "hash": "3bb8c3b9dbf8c85273b30f830574130a9eb9db5fd4434529840a4c03d2f34c15",
-      "updatedAt": "2026-11-05 18:22:59"
+      "version": "2",
+      "ruleVersion": 2,
+      "hash": "7be590f69ce1821ca4d9e032afc656dd5222838fb64ed73eed46f72151f59f7f",
+      "updatedAt": "2026-11-05 19:11:23"
     },
     "valheim": {
       "version": "1",
