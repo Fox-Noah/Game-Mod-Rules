@@ -157,10 +157,10 @@
       "updatedAt": "2026-11-02 00:29:09"
     },
     "phantombladezero": {
-      "version": "0",
-      "ruleVersion": 0,
-      "hash": "c4e3bf5dd78ee48eaa437882f705f90145c6e9aefb4210acbc3cee01dd9cf0fd",
-      "updatedAt": "2026-10-31 19:20:05"
+      "version": "1",
+      "ruleVersion": 1,
+      "hash": "5ea8ff41055661b0f60cc31dcd6009afc5de32203d4c7fa253d807621a817839",
+      "updatedAt": "2026-11-05 19:04:33"
     },
     "repo": {
       "version": "0",
