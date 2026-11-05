@@ -21,6 +21,7 @@ function encrypt(text) {
 const previous = fs.existsSync(manifestPath) ? JSON.parse(fs.readFileSync(manifestPath, 'utf8')) : { games: {} };
 const manifest = { games: {} };
 const snapshotFiles = {};
+const changed = [];
 fs.mkdirSync(rulesDir, { recursive: true });
 
 for (const file of fs.readdirSync(sourceDir).filter(name => name.endsWith('.json'))) {
@@ -37,13 +38,19 @@ for (const file of fs.readdirSync(sourceDir).filter(name => name.endsWith('.json
     if (old) ruleVersion = Math.max(old.ruleVersion + 1, ruleVersion);
     updatedAt = formatTime(new Date());
   }
-  const encrypted = encrypt(JSON.stringify({ ruleVersion, rules: payload.rules }));
-  fs.writeFileSync(path.join(rulesDir, `${id}.enc`), encrypted, 'utf8');
+  // 规则没变且已有密文时沿用旧密文，只重新加密新增或修改的游戏（加密带随机数，重加密会让每个 .enc 都变）
+  const encPath = path.join(rulesDir, `${id}.enc`);
+  const unchanged = old && old.hash === hash && fs.existsSync(encPath);
+  const encrypted = unchanged ? fs.readFileSync(encPath, 'utf8') : encrypt(JSON.stringify({ ruleVersion, rules: payload.rules }));
+  if (!unchanged) {
+    fs.writeFileSync(encPath, encrypted, 'utf8');
+    changed.push(id);
+  }
   snapshotFiles[id] = encrypted;
   manifest.games[id] = { version: String(ruleVersion), ruleVersion, hash, updatedAt };
 }
 fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2) + '\n', 'utf8');
-console.log(`已生成 ${Object.keys(manifest.games).length} 个游戏的加密规则`);
+console.log(`共 ${Object.keys(manifest.games).length} 个游戏，重新加密 ${changed.length} 个${changed.length ? '：' + changed.join(', ') : ''}`);
 
 const snapshotTarget = process.argv[2];
 if (snapshotTarget) {
